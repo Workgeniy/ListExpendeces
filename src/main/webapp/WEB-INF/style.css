@@ -1,0 +1,12 @@
+.form{
+    width : 400px;
+    height : 200px;
+    border : 1px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.button{
+    color : red;
+}
